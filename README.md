@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javafx, Advanced JAVA, JSP and sevlet**
 
-- 💬 Ask me about **Java, DSA, JAVAFX Advanced JAVA**
+- 💬 Ask me about **Java, JAVAFX, Advanced JAVA, C, DSA, HTML, MySQL **
 
 - 📫 How to reach me **fanibhusana2002@gmail.com**
 
