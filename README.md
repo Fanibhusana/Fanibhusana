@@ -26,4 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanibhusana&show_icons=true&locale=en&layout=compact" alt="fanibhusana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanibhusana&show_icons=true&locale=en" alt="fanibhusana" /></p>
-
+<p><img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fanibhusana&" alt="Fanibhusana" /></p>
