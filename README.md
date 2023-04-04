@@ -2,6 +2,7 @@
 
 <!--
 **Fanibhusana/Fanibhusana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/125716338/229704917-f94d6f41-96a2-45c0-ac15-c758b7d1899a.png)
 
 Here are some ideas to get you started:
 
