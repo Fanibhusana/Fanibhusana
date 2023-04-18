@@ -1,4 +1,4 @@
-### Hi there 👋 Fanibhusana  Maharana
+### Hi I am 👋 Fanibhusana  Maharana
 
 <h3 align="center">A passionate java developer from India</h3>
 
