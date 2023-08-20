@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanibhusana" alt="fanibhusana" /></a> </p>
 
-- 🌱 I’m currently learning **Javafx, Advanced JAVA, JSP and sevlet**
+- 🌱 I’m currently learning **Spring, Spring Boot**
 
-- 💬 Ask me about **JAVA, JAVAFX, Advanced JAVA, C, DSA, HTML, MySQL**
+- 💬 Ask me about **JAVA, JAVAFX, Advanced JAVA, C, DSA, HTML, MySQL, JSP & Servlet**
 
 - 📫 How to reach me **fanibhusana2002@gmail.com**
 
