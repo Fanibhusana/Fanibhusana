@@ -16,7 +16,7 @@
 <!-- About Me -->
 ## 📚 About Me
 
-- 💻 Java Devloper Intern with 6 month of experience.
+- 💻 Java Developer Intern with 6 month of experience.
 - 🌟 Specialized in Java Web App development.
 - 🚀 Passionate about technology and its potential to drive innovation.
 - 🎓 Lifelong learner, constantly exploring new technologies and trends.
