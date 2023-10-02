@@ -31,11 +31,9 @@
 
 <!-- Contact Information -->
 ## 📫 Contact Me
-
-Feel free to reach out to me via:
-
-- ✉️ Email: [fanibhusana2002@gmail.com]()
-- [Click me](https://forms.gle/5VPwFY7KtV1V6W4i8)
+Feel free to reach out to me via:</n>
+<p align="center"><img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/d74b742c-50b6-4984-b1d8-a3ff879d40c1" alt="Your Name" width="190"/>.</p>
+ 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanibhusana)
