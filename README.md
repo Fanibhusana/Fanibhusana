@@ -35,7 +35,7 @@
 Feel free to reach out to me via:
 
 - ✉️ Email: [fanibhusana2002@gmail.com]()
-
+- [Click me](https://forms.gle/5VPwFY7KtV1V6W4i8)
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanibhusana)
@@ -59,5 +59,5 @@ Feel free to reach out to me via:
 <hr>
 <p align="center">Thanks for visiting my profile. Let's connect and create amazing projects together!</p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125716338/229711039-af5c5827-846b-46b2-970c-50648245f1d6.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/125716338/229711039-af5c5827-846b-46b2-970c-50648245f1d6.gif" width="400"/>
 </p>
