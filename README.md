@@ -25,15 +25,14 @@
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-- 🌐 **[Project 1](https://github.com/Fanibhusana/Face-Detection)** - 📸 A Java project for detecting faces in images using OpenCV 🧑🔍.
-- 📷 **[Project 2](https://fanibhusana.github.io/)** - portfolio.
-- 🎮 **[Project 3](https://github.com/Fanibhusana/OIBSIP-Number-Guessing-Game)** - A fun and interactive game project.
+- 🌐 **[Project 1](https://github.com/Fanibhusana/Note-Taking-WebApp.git)** - 🗒️ HyperNote 📝
+- 📷 **[Project 2](https://fanibhusana.github.io/)** - 💻 Mo Management 🧑‍💻
  
 
 <!-- Technologies I Love -->
 ## 💖 Technologies I Love
 
-- **Languages:** Java, Advanced Java, C, JavaFX
+- **Languages:** Java, Advanced Java, C, jdbc, jsp, servlet, hibernate
 - **Frameworks:** Spring, SpringBoot
 - **Database:** SQL, MySQL
 - **Web Server:** Apache tomcat
