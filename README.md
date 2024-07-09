@@ -28,20 +28,7 @@
 - 🌐 **[Project 1](https://github.com/Fanibhusana/Face-Detection)** - 📸 A Java project for detecting faces in images using OpenCV 🧑🔍.
 - 📷 **[Project 2](https://fanibhusana.github.io/)** - portfolio.
 - 🎮 **[Project 3](https://github.com/Fanibhusana/OIBSIP-Number-Guessing-Game)** - A fun and interactive game project.
-
-<!-- Contact Information -->
-## 📫 Contact Me
-Feel free to reach out to me via:</n>
-<p align="center"><img src="https://github.com/Fanibhusana/Employee-Management-System-REST_API/assets/125716338/d74b742c-50b6-4984-b1d8-a3ff879d40c1" alt="Your Name" width="190"/>.</p>
  
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanibhusana)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanibhusana&show_icons=true&locale=en)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=fanibhusana&show_icons=true&locale=en&layout=compact)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Technologies I Love -->
 ## 💖 Technologies I Love
@@ -52,6 +39,11 @@ Feel free to reach out to me via:</n>
 - **Web Server:** Apache tomcat
 - **Web Development:** HTML
 - **Tools:** Visual Studio Code, Eclipse, Git/GitHub, Dev C++, MySQL Workbench, WordPress
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanibhusana)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanibhusana&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=fanibhusana&show_icons=true&locale=en&layout=compact)
 
 <!-- Footer -->
 <hr>
