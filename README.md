@@ -32,17 +32,23 @@
 <!-- Technologies I Love -->
 ## 💖 Technologies I Love
 
-- **Languages:** Java, Advanced Java, C, jdbc, jsp, servlet, hibernate
-- **Frameworks:** Spring, SpringBoot
+- **Languages:** Java, Advanced Java, C, jdbc, jsp, servlet, 
+- **Frameworks:** Spring, SpringBoot, Hibernate, React
 - **Database:** SQL, MySQL
 - **Web Server:** Apache tomcat
-- **Web Development:** HTML
+- **Web Development:** HTML, CSS, JS
 - **Tools:** Visual Studio Code, Eclipse, Git/GitHub, Dev C++, MySQL Workbench, WordPress
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanibhusana)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanibhusana&show_icons=true&locale=en)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=fanibhusana&show_icons=true&locale=en&layout=compact)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fanibhusana&" alt="fanibhusana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanibhusana&show_icons=true&locale=en" alt="fanibhusana" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanibhusana&show_icons=true&locale=en&layout=compact" alt="fanibhusana" /></p>
+<hr><br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fanibhusana&label=Profile%20views&color=0e75b6&style=flat" alt="fanibhusana" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanibhusana" alt="fanibhusana" /></a> </p>
+
+
+
 
 <!-- Footer -->
 <hr>
