@@ -1,58 +1,140 @@
-<!-- Profile Header -->
+<!--
+  Fanibhusana | The Ultimate Futurist Full Stack Java Developer Profile README
+  For best effect, add your own screenshots/GIFs, and tweak colors & links!
+-->
+
+<!-- Custom Animated Banner (use your own SVG or PNG for max wow) -->
 <p align="center">
-  <img src="https://github.com/Fanibhusana/Face-Detection/assets/125716338/75201626-0171-4d75-a2b5-0bec0edf717a" alt="Your Name" width="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:181818&height=160&section=header&text=Fanibhusana%20%7C%20Full%20Stack%20Java%20Developer&fontSize=36&fontColor=F7F7F7&desc=Futuristic%20Web%20Experiences&descAlign=60&descSize=20" alt="Fanibhusana Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Fanibhusana 👋</h1>
-<p align="center">Passionate about coding, design, and creating remarkable digital experiences.</p>
-
-<!-- GitHub Stats and Social Links -->
-
+<!-- Animated Greeting -->
 <p align="center">
-  <a href="https://fanibhusana.github.io/">Website</a> •
-  <a href="https://www.linkedin.com/in/fanibhusanamaharana">LinkedIn</a> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Namaste!+I'm+Fanibhusana+%F0%9F%91%8B;Java+Full+Stack+Developer;Building+Tomorrow's+Web+Today" alt="Dynamic Typing SVG" />
 </p>
 
-<!-- About Me -->
-## 📚 About Me
-
-- 💻 Java Developer Intern with 6 month of experience.
-- 🌟 Specialized in Java Web App development.
-- 🚀 Passionate about technology and its potential to drive innovation.
-- 🎓 Lifelong learner, constantly exploring new technologies and trends.
-- 😄 Pronouns: He
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-- 🌐 **[Project 1](https://github.com/Fanibhusana/Note-Taking-WebApp.git)** - 🗒️ HyperNote 📝
-- 📷 **[Project 2](https://fanibhusana.github.io/)** - 💻 Mo Management 🧑‍💻
- 
-
-<!-- Technologies I Love -->
-## 💖 Technologies I Love
-
-- **Languages:** Java, Advanced Java, C, jdbc, jsp, servlet, 
-- **Frameworks:** Spring, SpringBoot, Hibernate, React
-- **Database:** SQL, MySQL
-- **Web Server:** Apache tomcat
-- **Web Development:** HTML, CSS, JS
-- **Tools:** Visual Studio Code, Eclipse, Git/GitHub, Dev C++, MySQL Workbench, WordPress
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fanibhusana&" alt="fanibhusana" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanibhusana&show_icons=true&locale=en" alt="fanibhusana" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanibhusana&show_icons=true&locale=en&layout=compact" alt="fanibhusana" /></p>
-<hr><br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fanibhusana&label=Profile%20views&color=0e75b6&style=flat" alt="fanibhusana" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanibhusana" alt="fanibhusana" /></a> </p>
-
-
-
-
-<!-- Footer -->
-<hr>
-<p align="center">Thanks for visiting my profile. Let's connect and create amazing projects together!</p>
+<!-- Neon Badges & Interactive Tech Cloud -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125716338/229711039-af5c5827-846b-46b2-970c-50648245f1d6.gif" width="400"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,jdbc,jsp,servlet,react,js,html,css,mysql,git,docker,maven,postman,tomcat&perline=9" alt="Tech Stack" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=🚀%20About%20Me%20🚀&color=36BCF7&style=for-the-badge" />
+</h2>
+
+<p align="center">
+  <strong>Java Full Stack Trainee</strong> with a passion for building secure, scalable, and visually stunning web applications.<br>
+  <span style="color:#36bcf7;font-weight:bold;">Always learning, always innovating.</span>
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=🌟%20Project+Showcase%20🌟&color=F7E018&style=for-the-badge" />
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Fanibhusana/mitra.git">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:36BCF7,100:181818&height=120&section=header&text=Mitra%20%E2%80%93%20Charity%20Donation%20Web%20App&fontSize=28&fontColor=fff" alt="Mitra Charity Donation Web App"/>
+  </a>
+</p>
+<p align="center">
+  <!-- ADD YOUR PROJECT SCREENSHOT/GIF BELOW -->
+  <img src="https://placehold.co/500x250/181818/36BCF7?text=Project+Screenshot+Here" width="500" alt="Mitra Demo" style="border-radius:12px; box-shadow:0 0 16px #36bcf7;">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,mysql" alt="Project Stack" />
+</p>
+
+<p align="center">
+  <b>Mitra</b> is a secure, impactful charity web platform connecting donors with those in need.<br>
+  <span style="color:#36bcf7;">Java • Spring Boot • Hibernate • MySQL • Responsive UI</span>
+</p>
+
+<ul>
+  <li>🔐 Secure authentication & role-based access</li>
+  <li>🌐 Seamless donation flow & admin dashboard</li>
+  <li>⚡ Designed for real-world positive impact</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/Fanibhusana/mitra.git">
+    <img src="https://img.shields.io/badge/Explore%20Mitra-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Add more projects below as needed. Copy this block and update content. -->
+
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=🏆%20Achievements%20%26%20Highlights%20🏆&color=36BCF7&style=for-the-badge" />
+</h2>
+
+<ul>
+  <li><b>Built and launched Mitra</b> - a full-stack charity platform</li>
+  <li><b>Mastered modern web stack:</b> Java | Spring Boot | React | Docker</li>
+  <li><b>Consistent open-source contributor</b> and code innovator</li>
+</ul>
+
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%8F%86%20More%20GitHub%20Stats%20%F0%9F%8F%86&color=36BCF7&style=for-the-badge" />
+</h2>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fanibhusana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fanibhusana&theme=radical&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" alt="GitHub Trophies"/>
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fanibhusana&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fanibhusana&style=for-the-badge&color=36BCF7" alt="Profile views" />
+</p>
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=📅%20My%20Journey%20So%20Far%20📅&color=36BCF7&style=for-the-badge" />
+</h2>
+
+<ul>
+  <li><b>2024:</b> Immersed in Full Stack Java Training</li>
+  <li><b>2025:</b> Building, deploying, and learning—one project at a time</li>
+  <li><b>Future:</b> Ready to code the next big thing 🚀</li>
+</ul>
+
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%92%AC%20Let's%20Connect!%20%F0%9F%92%AC&color=F7E018&style=for-the-badge" />
+</h2>
+
+<p align="center">
+  <!-- Add your real links below: -->
+  <a href="mailto:your.mail@example.com"><img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-36BCF7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Add more social/contact icons as you wish -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:181818&height=90&section=footer&fontColor=ffffff" alt="Footer"/>
+</p>
+<p align="center">
+  <b style="font-size:22px;">Let’s build the future, together.<br>
+  <span style="color:#36BCF7;">Check out my repositories & join the journey!</span></b>
 </p>
