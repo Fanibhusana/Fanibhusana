@@ -40,7 +40,7 @@
   <img src="https://github.com/user-attachments/assets/b05d4355-6290-429c-980e-53d3cd90fe48" width="500" alt="Mitra Demo" style="border-radius:12px; box-shadow:0 0 16px #36bcf7;">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,mysql" alt="Project Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql" alt="Project Stack" />
 </p>
 
 <p align="center">
