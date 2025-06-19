@@ -1,7 +1,3 @@
-<!--
-  Fanibhusana | The Ultimate Futurist Full Stack Java Developer Profile README
-  For best effect, add your own screenshots/GIFs, and tweak colors & links!
--->
 
 <!-- Custom Animated Banner (use your own SVG or PNG for max wow) -->
 <p align="center">
@@ -15,14 +11,14 @@
 
 <!-- Neon Badges & Interactive Tech Cloud -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,jdbc,jsp,servlet,react,js,html,css,mysql,git,docker,maven,postman,tomcat&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,git,docker,maven,postman,tomcat&perline=9" alt="Tech Stack" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=🚀%20About%20Me%20🚀&color=36BCF7&style=for-the-badge" />
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=About%20Me&color=36BCF7&style=for-the-badge" />
+</p>
 
 <p align="center">
   <strong>Java Full Stack Trainee</strong> with a passion for building secure, scalable, and visually stunning web applications.<br>
@@ -31,18 +27,17 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=🌟%20Project+Showcase%20🌟&color=F7E018&style=for-the-badge" />
-</h2>
-
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Project+Showcase&color=36BCF7&style=for-the-badge" />
+</p>
 <p align="center">
   <a href="https://github.com/Fanibhusana/mitra.git">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:36BCF7,100:181818&height=120&section=header&text=Mitra%20%E2%80%93%20Charity%20Donation%20Web%20App&fontSize=28&fontColor=fff" alt="Mitra Charity Donation Web App"/>
   </a>
 </p>
 <p align="center">
-  <!-- ADD YOUR PROJECT SCREENSHOT/GIF BELOW -->
-  <img src="https://placehold.co/500x250/181818/36BCF7?text=Project+Screenshot+Here" width="500" alt="Mitra Demo" style="border-radius:12px; box-shadow:0 0 16px #36bcf7;">
+  <!-- Project Screenshot/GIF -->
+  <img src="https://github.com/user-attachments/assets/b05d4355-6290-429c-980e-53d3cd90fe48" width="500" alt="Mitra Demo" style="border-radius:12px; box-shadow:0 0 16px #36bcf7;">
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,mysql" alt="Project Stack" />
@@ -65,19 +60,6 @@
   </a>
 </p>
 
-<!-- Add more projects below as needed. Copy this block and update content. -->
-
----
-
-<h2 align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=🏆%20Achievements%20%26%20Highlights%20🏆&color=36BCF7&style=for-the-badge" />
-</h2>
-
-<ul>
-  <li><b>Built and launched Mitra</b> - a full-stack charity platform</li>
-  <li><b>Mastered modern web stack:</b> Java | Spring Boot | React | Docker</li>
-  <li><b>Consistent open-source contributor</b> and code innovator</li>
-</ul>
 
 ---
 
@@ -104,19 +86,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fanibhusana&style=for-the-badge&color=36BCF7" alt="Profile views" />
 </p>
----
 
-<h2 align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=📅%20My%20Journey%20So%20Far%20📅&color=36BCF7&style=for-the-badge" />
-</h2>
-
-<ul>
-  <li><b>2024:</b> Immersed in Full Stack Java Training</li>
-  <li><b>2025:</b> Building, deploying, and learning—one project at a time</li>
-  <li><b>Future:</b> Ready to code the next big thing 🚀</li>
-</ul>
-
----
 
 <h2 align="center">
   <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%92%AC%20Let's%20Connect!%20%F0%9F%92%AC&color=F7E018&style=for-the-badge" />
@@ -124,8 +94,8 @@
 
 <p align="center">
   <!-- Add your real links below: -->
-  <a href="mailto:your.mail@example.com"><img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-36BCF7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fanibhusana2002@gmail.com"><img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-36BCF7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Add more social/contact icons as you wish -->
 </p>
 
